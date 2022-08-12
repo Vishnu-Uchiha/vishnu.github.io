@@ -10,10 +10,4 @@ Syntax highlighted code block
 #Python program to print Hello World
 print("Hello World")
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
 
