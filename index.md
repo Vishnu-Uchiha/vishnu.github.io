@@ -5,7 +5,7 @@ I am from Velankanni
 
 
 ```markdown
-Syntax highlighted code block
+This is the code
 
 #Python program to print Hello World
 print("Hello World")
